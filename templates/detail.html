@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}Smart Perpus | Detail Data{% endblock %}
+
+{% block content %}
+<main class="container">
+    <div class="bg-body-tertiary p-5 rounded">
+      <h3>Detail Buku</h3>
+      <p class="lead">
+        <div class="row">
+            <div class="col">
+        <div class="mb-3">
+            <div><strong>Judul Buku</strong></div>
+            <div>{{ data_perpus.Judul_Buku }}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Pengarang</strong></div>
+            <div>{{ data_perpus.Pengarang }}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Penerbit</strong></div>
+            <div>{{ data_perpus.Penerbit}}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Tahun Terbit</strong></div>
+            <div>{{ data_perpus.Tahun_Terbit }}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Jenis Buku</strong></div>
+            <div>{{ data_perpus.Jenis }}</div>
+        </div>
+        
+        <div class="mb-3">
+            <div><strong>Edisi</strong></div>
+            <div>{{ data_perpus.Edisi}}</div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="mb-3">
+            <div><strong>Isbn</strong></div>
+            <div>{{ data_perpus.Isbn }}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Kelas</strong></div>
+            <div>{{ data_perpus.Kelas }}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Jumlah</strong></div>
+            <div>{{ data_perpus.Jumlah}} buku</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Tanggal Input</strong></div>
+            <div>{{ data_perpus.Tanggal_Input }}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Tanggal Masuk</strong></div>
+            <div>{{ data_perpus.Tanggal_Masuk }}</div>
+        </div>
+        <div class="mb-3">
+            <div><strong>Id Buku</strong></div>
+            <div>{{ data_perpus.Id_Buku}}</div>
+        </div>
+    </div>
+
+       
+      </p>
+      <div class="alert alert-info">
+        Waktu esekusi selama {{ execution_time }} detik
+    </div>
+      
+    </div>
+  </main>
+
+  <link rel="stylesheet" type="text/js" href="{{ url_for('static', filename='dist/js/bootstrap.bundle.min.js')}}" >
+</main>
+
+{% endblock %}

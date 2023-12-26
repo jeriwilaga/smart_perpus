@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block title %}Smart Perpus | Kelompok{% endblock %}
+
+{% block content %}
+<br>
+<main class="container">
+          <div class="bg-body-tertiary p-5 rounded text-center">
+            <h2>KELOMPOK 10</h2>
+            <p class="lead">Berikut adalah nama dan foto dari kelompok 10 Universitas muhammadiyah pringsewu hybrid dengan universitas muhammadiyah kota bumi.</p>
+            
+          </div>
+        </main>
+        
+        <link rel="stylesheet" type="text/js" href="{{ url_for('static', filename='dist/js/bootstrap.bundle.min.js')}}" >
+</main>
+<br>
+<div class="row">
+          <div class="col d-flex justify-content-center">
+            <div class="card">
+              <img src="{{ url_for('static',filename='img/jr1.png')}}"class="card-img-top img-fluid">
+              <div class="card-body">
+                <h5 class="card alert alert-info">Jeri Wilaga</h5>
+                <p class="card-text">Nim 2023606601031 saya adalah bagian dari kelompok 10 saya dari Universitas Muhammadiyah Pringsewu yang Hybird dengan Universitas Muhammadiyah Kota Bumi</p>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+                    <div class="card">
+                      <img src="{{ url_for('static',filename='img/zr1.png')}}" class="card-img-top img-fluid">
+                      <div class="card-body">
+                        <h5 class="card-title alert alert-info">Zahara Nabila</h5>
+                        <p class="card-text"> Nim 2023606601028 saya adalah bagian dari kelompok 10 saya dari Universitas Muhammadiyah Pringsewu yang Hybird dengan Universitas Muhammadiyah Kota Bumi</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="card">
+                      <img src="{{ url_for('static',filename='img/fr.png')}}" class="card-img-top img-fluid">
+                      <div class="card-body">
+                        <h5 class="card-title alert alert-info">Farhan Gustian</h5>
+                        <p class="card-text">Nim 2023606601016 saya adalah bagian dari kelompok 10 saya dari Universitas Muhammadiyah Pringsewu yang Hybird dengan Universitas Muhammadiyah Kota Bumi</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="card">
+                      <img src="{{ url_for('static',filename='img/aa.png')}}" class="card-img-top img-fluid">
+                      <div class="card-body">
+                        <h5 class="card-title alert alert-info">Agung Setio</h5>
+                        <p class="card-text">Nim 2023606601004 saya adalah bagian dari kelompok 10 saya dari Universitas Muhammadiyah Pringsewu yang Hybird dengan Universitas Muhammadiyah Kota Bumi</p>
+                      </div>
+                    </div>
+                  </div>
+          </div>
+        </div>
+{% endblock %}

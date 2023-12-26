@@ -1,0 +1,163 @@
+﻿Id buku;jenis;judul Buku;pengarang;penerbit;Tahun Terbit;kelas;edisi;isbn;jumlah;tanggal input;tanggal masuk
+9786021913635;Buku;Lampung Sai Bumi Ruwa Jurai;Firman Sujadi;Cita Insan Madani;2014;Umum;;9786021913635;71;43729,3598148148;
+9786029224207;Buku;Mengenal Budaya Lampung Dalam 4 Bahasa;A.Saibani, dkk;Ad Print Mitra Pusaka;2014;Umum;;9786029224207;70;43729,3635763889;
+99111;Buku;Bahasa Inggris;Yunika Rotua L;kemendikbud;2017;XI;revisi 2017;9786024271084;38;43729,3676273148;
+99112;Buku;Bahasa Inggris;;kemendikbud;2018;XII;revisi 2018;9786024271091;39;43729,3704166667;
+99113;Buku;Bahasa Inggris;Utami Widiati, dkk;kemendikbud;2017;X;revisi 2017;9786024271077;133;43729,3715046296;
+99114;Buku;Bahasa Indonesia;Suherli;kemendikbud;2017;XI;Revisi 2017;9786024271008;35;43729,392662037;
+99115;Buku;Bahasa Indonesia;Suherli;kemendikbud;2017;X;revisi 2016;9786024270995;135;43729,3946412037;
+99116;Buku;Bahasa Indonesia;Maman Suryaman;kemendikbud;2018;XII;revisi 2018;9786024271015;40;43729,3965740741;
+99117;Buku;Bahasa Indonesia;Mokhamad Irman;PT. INTAN SEJATI KLATEN;2008;XII;;9794628697;42;43729,3987384259;
+99118;Buku;Sejarah Indonesia;Restu Gunawan;kemendikbud;2016;X;2016;9786024271220;120;43729,414212963;
+99119;Buku;Sejarah Indonesia;Sardiman;INTAN PARIWARA;2018;XI;revisi 2017;9786024271251;80;43729,4163078704;
+99120;Buku;Sejarah Indonesia;Abdurakhman;INTAN PARIWARA;2018;XII;revisi 2018;9786024271251;40;43729,4218634259;
+99121;Buku;Matematika;Bornok, dkk;kemendikbud;2014;X;revisi 2014;9786022824923;112;43729,43375;
+99122;Buku;Matematika;Bornok, dkk;kemendikbud;2017;X;revisi 2017;9786024271152;135;43729,4455787037;
+99123;Buku;Kewarganegaraan;Nuryadi;INTAN PARIWARA;2017;X;revisi 2017;9786024270919;133;43729,4635300926;
+99124;Buku;Kewarganegaraan;Yuusnawan Lubis;INTAN PARIWARA;2017;XI;revisi 2017;9786024270926;40;43729,473125;
+99125;Buku;Kewarganegaraan;Yuusnawan Lubis;INTAN PARIWARA;2018;XII;revisi 2018;9786024270933;40;43729,4744907407;
+9789790927414;Buku;Pemrograman Dasar;Imam Hari P;Yudhistira;2014;X;;;17;43729,4763773148;
+9789790927278;Buku;Fisika;Sutejo;Yudhistira;2013;X;;9789790927278;20;43729,5353935185;
+9789790927285;Buku;Fisika;Sutejo;Yudhistira;2014;XI;;9789790927285;18;43729,553599537;
+9789790927322;Buku;Kimia;Emi Erawati;Yudhistira;2013;X;;9789790927322;20;43729,5543634259;
+9789790927339;Buku;Kimia;Emi Erawati;Yudhistira;2014;XI;;9789790927339;20;43729,5551041667;
+99127;Buku;IPA;Suparwoto;PT. MACANAN JAYA CEMERLANG;2009;Umum;;9786028320337;37;43729,5554976852;
+9786024443269;Buku;Simulasi dan Komunikasi Digital;Sri Wahyuni;Bumi Aksara;2019;X;revisi;9786024443269;22;43729,5587847222;
+9789790927292;Buku;Fisika;Sutejo;Yudhistira;2014;X;;9789790927292;20;43731,4349421296;
+9789790927308;Buku;Fisika;Sutejo;Yudhistira;2014;XI;;9789790927308;19;43731,4526388889;
+99129;Buku;Seni Budaya;Zackaria;INTAN PARIWARA;2017;X;revisi 2017;9786024271435;137;43731,4855092593;
+9786024445713;Buku;Komputer akuntansi;Agus Mulyono, S.E;Bumi Aksara;2019;XII;Revisi;9786024445713;24;43732,319375;
+9786024443382;Buku;Akuntansi Dasar;Dian Puspitasari;Bumi Aksara;2018;X;Revisi;9786024443382;24;43732,3255787037;
+9786024445706;Buku;Komputer akuntansi;Agus Mulyono, S.E;Bumi Aksara;2019;XI;Revisi;9786024445706;24;43732,3279398148;
+9786024445935;Buku;Pemograman web dan perangkat bergerak;sumari agus prasetyo;Bumi Aksara;2019;XII;Revisi;9786024445935;24;43732,3721875;
+9786024454432;Buku;Administrasi umum;Sri Wahyuni;Yudhistira;2013;X;2017;9786024454432;17;43732,4121990741;
+9786024453138;Buku;Marketing ;Sutrisno;Yudhistira;2018;X;Revisi 2017;9786024453138;8;43732,5052777778;
+9786024454166;Buku;Produk Kreatif dan Kewirausahaan;Dody Kusuma;Yudhistira;2018;XI;Revisi 2017;9786024454166;15;43732,511712963;
+9786024443474;Buku;Perbankan Dasar ;Reham munas;Bumi Aksara;2018;X;Revisi;9786024443474;24;43732,5207638889;
+9786024445294;Buku;Administrasi Transaksi;Deseven Dasih;Bumi Aksara;2019;XII;Revisi;9786024445294;24;43732,5257638889;
+9786024445287;Buku;Administrasi Transaksi;Deseven Dasih;Bumi Aksara;2019;XI;Revisi;9786024445287;24;43732,5278125;
+9786024445850;Buku;Praktikum Akuntansi Lembaga/Instansi Pemerintah;Sri Wahyuni;Bumi Aksara;2019;XI;Revisi;9786024445850;24;43732,5285416667;
+9786024445867;Buku;Praktikum Akuntansi Lembaga/Instansi Pemerintah;Sri Tarmiyati;Bumi Aksara;2019;XII;Revisi;9786024445867;24;43732,530462963;
+9786024445157;Buku;Pengelolaan Bisnis Retail;Deseven Dasih;Bumi Aksara;2019;XII;Revisi;9786024445157;24;43732,5349189815;
+9786024445140;Buku;Pengelolaan Bisnis Retail;Deseven Dasih;Bumi Aksara;2019;XI;Revisi;9786024445140;24;43732,5380671296;
+9786024445171;Buku;Bisnis Online;Yudi Andriyanto;Bumi Aksara;2019;XI;Revisi;9786024445171;24;43732,5388078704;
+9786024445188;Buku;Bisnis Online;Yudi Andriyanto;Bumi Aksara;2019;XII;Revisi;9786024445188;24;43732,5396643519;
+9786024445218;Buku;Penataan Produk;Yudi Andriyanto;Bumi Aksara;2019;XII;Revisi;9786024445218;24;43732,5402430556;
+9786024445201;Buku;Penataan Produk;Yudi Andriyanto;Bumi Aksara;2019;XI;Revisi;9786024445201;24;43732,5408333333;
+9786024443528;Buku;Gambar Teknik otomotif;Ridlho Erfan Nugroho;Bumi Aksara;2018;X;Revisi;9786024443528;24;43732,5436574074;
+9786024443399;Buku;Pekerjaan Dasar Teknik Otomotif;Ridlho Erfan Nugroho;Bumi Aksara;2019;X;Revisi;9786024443399;24;43732,5465509259;
+9786024443535;Buku;Teknologi Dasar Otomotif;Ridlho Erfan Nugroho;Bumi Aksara;2018;X;Revisi;9786024443535;24;43732,5472916667;
+9786024443269;Buku;Simulasi dan Komunikasi Digital;Sri Wahyuni;Bumi Aksara;2019;X;Revisi;9786024443269;24;43732,5490509259;
+9786024442729;Buku;Dasar Desain Grafis;Aru Tirto Prihono;Bumi Aksara;2019;X;Revisi;9786024442729;24;43732,5642361111;
+9786024445744;Buku;Administrasi Infrastruktur Jaringan;sutrisno ;Bumi Aksara;2019;XII;Revisi;9786024445744;24;43732,5658101852;
+9786024445737;Buku;Administrasi Infrastruktur Jaringan;Sutrisno;Bumi Aksara;2019;XI;Revisi;9786024445737;24;43732,5675;
+9786024445775;Buku;Administrasi sistem Jaringan;M. Rizal;Bumi Aksara;2019;XII;Revisi;9786024445775;24;43732,5684606481;
+9786024445768;Buku;Administrasi sistem Jaringan;M. Rizal;Bumi Aksara;2019;XI;Revisi;9786024445768;24;43732,5694560185;
+9786024445591;Buku;Teknologi Layanan Jaringan ;M. Rizal;Bumi Aksara;2019;XII;Revisi;9786024445591;24;43732,5715393519;
+9786024445553;Buku;Basis Data;Darso;Bumi Aksara;2019;XI;Revisi;9786024445553;24;43732,5722685185;
+9786024445560;Buku;Basis Data;Darsono;Bumi Aksara;2019;XII;Revisi;9786024445560;24;43732,5729861111;
+9786024445874;Buku;Pemodelan Perangkat Lunak;Darsono;Bumi Aksara;2019;XI;Revisi;9786024445874;24;43732,5734722222;
+9786024445904;Buku;Pemrograman Berorientasi Objek;Patwiyanto;Bumi Aksara;2019;XII;Revisi;9786024445904;24;43732,5742013889;
+9786024445928;Buku;Pemrograman Web dan Perangkat Bergerak;sumari agus prasetyo;Bumi Aksara;2019;XI;Revisi;9786024445928;24;43732,5753935185;
+9786024443108;Buku;Pemrograman Dasar;Yuliana Ardiyanti;Bumi Aksara;2018;X;Revisi;9786024443108;24;43732,5765625;
+9786024445898;Buku;Pemograman Berorientasi Objek;Patwiyanto;Bumi Aksara;2019;XI;Revisi;9786024445898;24;43732,5801157407;
+9789790194434;Buku;Akuntansi Perusahaan Jasa dan Dagang;Toto Sucipto;Yudhistira;2015;XI;Pertama;9789790194434;20;43733,3018634259;
+9786026339225;Buku;Ilmu Resep;Maryani;APMFI;2016;X;;9786026339225;9;43733,3525;
+9789790928602;Buku;Akuntansi Dan Keuangan;Toto Sucipto;Yudhistira;2014;X;;9789790928602;24;43733,3690162037;
+9786024451684;Buku;Komputer akuntansi;Priyo Candra Pratama;Yudhistira;2018;XI;Revisi 2017;9786024451684;20;43733,3950694444;
+9789790920811;Buku;Akuntansi;Toto Sucipto;Yudhistira;2011;XII;;9789790920811;19;43733,3972916667;
+9786024454357;Buku;Etika Profesi;Rikky Firmansyah;Yudhistira;2018;X;Revisi 2017;9786024454357;16;43733,3982407407;
+9786022998662;Buku;Administrasi Pajak;Agus syarif;Yudhistira;2017;XII;Revisi 2017;9786022998662;20;43733,399537037;
+9786024453015;Buku;Perencanaan Bisnis;sutrisno ;Yudhistira;2018;X;Revisi 2017;9786024453015;9;43733,5261111111;
+9786022998655;Buku;Adm. Pajak 1;Agus Syarif;Yudhistira;2017;XI;revisi 2017;9786022998655;18;43734,3109953704;
+9788087049099;Buku;Al-Islam dan Kemuhammadiyahan;Dr.H. Husni Tohyar;Majelis Dikdasmen PP Muhammadiyah;2012;XII;;9788087049099;67;43734,3223842593;
+9789790929326;Buku;Perakitan Komputer;Heriyanto dkk;Yudhistira;2013;X;;9789790929326;13;43734,3353587963;
+9789790929999;Buku;Pemrograman Web ;Heriyanto dkk;Yudhistira;2013;X;;9789790929999;13;43734,3372685185;
+9789790927438;Buku;Sistem Komputer;Heriyanto dkk;Yudhistira;2013;X;;9789790927438;17;43734,3399189815;
+9789790927421;Buku;Pemrograman Dasar ;Heriyanto dkk;Yudhistira;2013;XI;;9789790927421;19;43734,3409027778;
+9789797469290;Buku;Servis Mesin dan Komponenya;Nono Budiarto;Yudhistira;2007;Umum;;9789797469290;10;43734,3425115741;
+9789797464301;Buku;PDTM;Umaryadi;Yudhistira;2007;XII;;9789797464301;10;43734,3446296296;
+9789790920200;Buku;Keterampilan Komputer dan Pengelolaan Informasi;Drs. Mardi, dkk;Yudhistira;2011;X;Kedua;9789790920200;28;43734,3455208333;
+9789790920224;Buku;Keterampilan Komputer dan Pengelolaan Informasi;Drs. Mardi, dkk;Yudhistira;2011;XII;;9789790920224;20;43734,3488425926;
+9789790198173;Buku;TKJ;Fauziah S.Kom;Yudhistira;2012;XII;;9789790198173;9;43734,3504398148;
+9789790198166;Buku;TKJ;Fauziah S.Kom;Yudhistira;2011;XI;;9789790198166;10;43734,3602777778;
+99130;Buku;Buku Guru Bahasa Indonesia;Maman Suryaman;kemendikbud;2018;XII;Revisi 2018;9786024271053;2;43734,5399305556;
+9789790920804;Buku;Akuntansi ;Toto Sucipto;Yudhistira;2011;XI;;9789790920804;18;43735,3660416667;
+9786026339096;Buku;Farmakognosi;TH. Hetty Nurwidiyati, S.Si., Apt;APMFI;2016;X;;9786026339096;9;43735,3692361111;
+9786026339287;Buku;K3LH;Yudha Sukowati;APMFI;2016;X;;9786026339287;9;43735,3824421296;
+9786026339218;Buku;Perundang-undangan Kesehatan;Sion Pinem,S.Si.,Apt;APMFI;2016;X;;9786026339218;8;43735,3858101852;
+9789790445758;Buku;Farmakognosi;Muh. Yani Zamzam;Buku Kedokteran EGC;2017;Umum;jilid 1;9789790445758;1;43735,4803819444;
+9789790445765;Buku;Farmakognosi;Muh. Yani Zamzam;Buku Kedokteran EGC;2017;Umum;jilid 2;9789790445765;1;43735,4841898148;
+9789790448285;Buku;Farmakognosi;Teguh Setiawan;Buku Kedokteran EGC;2017;Umum;jilid 1;9789790448285;1;43735,5267708333;
+9789790448292;Buku;Farmakognosi;Teguh Setiawan;Buku Kedokteran EGC;2017;Umum;jilid 2;9789790448292;1;43735,5595023148;
+9789790449077;Buku;Dasar-dasar Kefarmasian;Pegi Pradika Mudayanti;Buku Kedokteran EGC;2018;Umum;volume 1;9789790449077;1;43735,5642824074;
+9789790449084;Buku;Dasar-dasar Kefarmasian;Pegi Pradika Mudayanti;Buku Kedokteran EGC;2018;Umum;volume 2;9789790449084;1;43735,5657638889;
+9789790449213;Buku;Pelayanan Farmasi Ilmu Resep;Ai Kuraesin, S.Si., Apt;Buku Kedokteran EGC;2017;XI & XII;revisi 2017;9789790449213;1;43736,3736689815;
+9789790449206;Buku;Pelayanan Farmasi Administrasi Farmasi;Syukrina, S.Si., Apt;Buku Kedokteran EGC;2017;XII;revisi 2017;9789790449206;1;43736,3865740741;
+9786028231473;Buku;Al-islam dan Kemuhammadiyahan;Husni Tohyar;Majelis Dikdasmen PP Muhammadiyah;2013;XI;;9786028231473;17;43738,3542476852;
+99134;Buku;Agama Islam da Budi Pekerti;Sholeh Dimyathi;kemendikbud;2018;XII;revisi 2018;9786024270452;39;43738,3690972222;
+99135;Buku;Agama Islam da Budi Pekerti;Mustahdi dan Mustakim;kemendikbud;2017;XI;revisi 2017;9786024270445;23;43738,3716666667;
+9786028231480;Buku;Al-islam dan Kemuhammadiyahan;Husni Tohyar;Majelis Dikdasmen PP Muhammadiyah;2013;XII;;9786028231480;15;43738,3785648148;
+99137;Buku;Matematika;Abdur Rahman;kemendikbud;2018;XII;revisi 2018;9786024271176;40;43738,4853240741;
+9786024445836;Buku;Akuntansi Keuangan;Ika Widiyanti;Bumi Aksara;2019;XII;Revisi;9786024445836;25;43741,554837963;
+9786024445829;Buku;Akuntansi Keuangan;Ika Widiyanti;Bumi Aksara;2019;XI;Revisi;9786024445829;25;43741,5663773148;
+9786024445683;Buku;Praktikum Akuntansi Perusahaan Jasa, Dagang, dan Manufaktur;Sri Tarmiyati;Bumi Aksara;2019;XII;Revisi;9786024445683;25;43741,5676851852;
+99139;Buku;Penjaskes;Syarifudin;kemendikbud;2017;X;revisi 2017;9786022824657;140;43743,3047916667;
+978-602-6339-21-8;Buku;Perundang-undangan kesehatan;Sion Pinem,S.Si.,Apt;APMFI;2016;X;;978-602-6339-21-8;10;43743,422025463;
+99141;Buku;Matematika Penjualan dan Akuntansi;To'ali;PT. Indahjaya Adipratama;2008;XII;;9794628166;131;43763,3006828704;
+9786237458098;Buku;Kembara Rindu;Habiburrahman El Shirazy;Republika Penerbit;2019;Umum;;9786237458098;10;43783,5751967593;
+9786020220970;Buku;Memoar of Jeddah;Jihan Davincka;PT. Elex Media Komputindo;2013;Umum;;9786020220970;1;43810,4841319444;
+9786022515043;Buku;HALIMUN;Rina TH;PT.Gramedia Widiasarana;2014;Umum;;9786022515043;6;43811,3218865741;43445
+9789792262629;Novel;Menggapai Matahari;Adnan Katino;PT.Gramedia  ;2010;Umum;;9789792262629;2;43811,3232291667;43445
+9786020301969;Novel;Aku,Cinta,dan Petang;adenita dkk;PT.Gramedia  ;2014;Umum;;9786020301969;3;43811,3265509259;43445
+9789797944056;Novel;#followers;Ardini dkk;mediakita;2013;Umum;cetakan pertama;9789797944056;6;43811,3287384259;43445
+9786020020907;Buku;Kuntilanak Cemen;Eni Martini;PT. Elex Media Komputindo;2012;Umum;;9786020020907;1;43811,3619560185;43445
+9786020235592;Novel;Bila Musim telah Berganti;Purwati Sugito;PT. Elex Media Komputindo;2014;Umum;;9786020235592;1;43811,3626967593;43445
+9786020237626;Novel;HAnya Sebutir Debu;Sandi Firly;PT. Elex Media Komputindo;2014;Umum;;9786020237626;4;43811,3640972222;43445
+9786028260947;Buku;Sang Waktu;Happy S Tjandra;Gradien Mediatama;2017;Umum;sembilan;9786028260947;5;43811,3733449074;43446
+9789797957629;Novel;Pengantin Qur'an;Arif Wardani;Wahyumedia;2013;Umum;pertama;9789797957629;5;43811,3745486111;43445
+9786022511922;Novel;Enigma;Yudhi Herwibowo;PT. Grasindo;2013;Umum;;9786022511922;3;43811,3768981481;43445
+9786020231853;Novel;Cinta Kala Perang;Masriadi Sambo;PT. Elex Media Komputindo;2014;Umum;;9786020231853;6;43811,3798032407;43445
+9786022513643;Novel;Kedai Bianglala;Anggun Prameswari;PT. Gramedia Widiasarana;2014;Umum;;9786022513643;6;43811,3856597222;43445
+9786022080503;Novel;The Summer i Turned Pretty;Jenny Han;Gradien Mediatama;2013;Umum;ketiga;9786022080503;2;43811,3947916667;43445
+9789797958695;Novel;Aku Tak Marah;Djokolelono;Moka Media;2014;Umum;;9789797958695;6;43811,3963888889;43445
+9789797958725;Novel;Dua Masa di Mata Fe;Dyah Prameswarie;Moka Media;2014;Umum;;9789797958725;3;43812,3265856481;43445
+9789797805784;Novel;Letter to My Daughter;Maya Angelou;Gagas Media;2012;Umum;;9789797805784;3;43812,3299537037;43445
+9786021765821;Novel;Amazing Fay;Tian Arief & Efin Fintiana;PT. Lintas Kata;2013;Umum;Pertama;9786021765821;3;43812,3316319444;43445
+9786020238975;Novel;Senandung Cinta di Lembah Papua;Pujia Achmad;PT. Elex Media Komputindo;2014;Umum;;9786020238975;3;43812,3611342593;43445
+9789790172340;Novel;Sungguh, Hanya Karena Engkau Aku Berhijab;Aminah Mustari dkk;Qultum Media;2012;Umum;pertama;9789790172340;3;43812,3951388889;43445
+9786022081081;Novel;Cenat-cenut Reporter;Wuri Nugraeni;Gradien Mediatama;2015;Umum;kelima;9786022081081;3;43813,3223726852;43445
+9789790813298;Novel;Kapitan Pedang Panjang;Fira Basuki;PT. Gramedia Widiasarana;2010;Umum;;9789790813298;2;43813,3249189815;43445
+9786021876084;Novel;Relif;Dion & Intan W Puspita;Caesar Media Pustaka;2013;Umum;;9786021876084;3;43813,3279050926;43445
+9786020233130;Buku;Dua Arus Selokan Mataram;Kagama Virtual;PT. Elex Media Komputindo;2014;Umum;;9786020233130;2;43837,3893518519;43445
+9786022200437;Novel;PUAS;Alisnaik;BUKUNE;2012;Umum;;9786022200437;2;43837,3905671296;43445
+9786028066815;Novel;Serba Serbi Profesi;Anwar & Tantrina;BUKUNE;2010;Umum;;9786028066815;2;43837,3934259259;43445
+9786029211948;Novel;Temanmu Bahagiamu;Syekh Mustafa Al-Adawi;Tinta Medina;2013;Umum;;9786029211948;2;43837,3954861111;43445
+9789792299939;Novel;Daun Putri Malu;Magdalena Sitorus;PT. Gramedia Pustaka Utama;2013;Umum;;9789792299939;2;43837,4003935185;43445
+9786020238944;Novel;Lilin;Ferry Triadi Sasono, dkk;PT. Elex Media Komputindo;2014;Umum;;9786020238944;1;43837,4040509259;43445
+9789797806644;Novel;TUAN KEN(TUT);Fx Rudy Gunawan;Gagas Media;2013;Umum;;9789791806644;2;43837,4114467593;43445
+9786022514657;Novel;Les Masques;Indah Hanaco;PT. Gramedia Widiasarana;2014;Umum;;9786022514657;2;43837,4152430556;43445
+9789797805609;Novel;Sapporo No Niji;Hapsari Hanggarini;Gagas Media;2012;Umum;;9789797805609;2;43837,4194328704;43445
+9786024860233;Buku;Erlangga X-Press UN 2019 B. Inggris;Endrawati | H. Genderia Sari;Penerbit Erlangga;2018;XII;;9786024860233;16;43837,4321064815;43445
+9786022230090;Buku;Ensiklopedia IPTEK Gaya dan Gerak;Oki Prama Bakti;Multazam Mulia Utama;2015;Umum;;9786022230090;2;43837,4350462963;42350
+9786022230083;Buku;Ensiklopedia IPTEK Cahaya dan Alat Optik;Andarini Saptika;Multazam Mulia Utama;2010;Umum;;9786022230083;2;43837,4604050926;42350
+9786022230151;Buku;Ensiklopedia IPTEK Alam Semesta;Morena Cindo;Multazam Mulia Utama;2010;Umum;;9786022230151;2;43837,4703703704;42350
+9786022230120;Buku;Ensiklopedia IPTEK Bahan dan Teknologi;Fachri Aljupri;Multazam Mulia Utama;2013;Umum;;9786022230120;2;43837,4718865741;42350
+9786022240396;Buku;Ensiklopedia Geografi Eropa;Morena Cindo;CV. Ghina Walafafa;2012;Umum;;9786022240396;2;43837,4744097222;42350
+9786022230472;Buku;Ensiklopedia Bahasa & Sastra;Octaria Sulistyani;Multazam Mulia Utama;2010;Umum;Jilid 5;9786022230472;2;43837,5413194444;43810
+9786022220206;Buku;English Encyclopedia;Umi Habibah;CV. Sahala Adidayatama;2015;Umum;;9786022220206;2;43837,5435416667;42350
+9786028505949;Buku;Ensiklopedia Sejarah;Yuyus Kardiman;Multazam Mulia Utama;2011;Umum;Jilid 4;9786028505949;2;43837,5501967593;42350
+9786029235166;Buku;Ensiklopedia Ekonomi;Oki Prama Bakti;CV. Citraunggul Laksana;2011;Umum;Jilid 2;9786029235166;2;43837,551412037;42350
+9786028505932;Buku;Ensiklopedia Sejarah;Yuyus Kardiman;Multazam Mulia Utama;2010;Umum;Jilid 3;9786028505932;2;43837,5527199074;42350
+9786022230380;Buku;Ensiklopedia Kewarganegaraan;Andarini Saptika;Multazam Mulia Utama;2010;Umum;Jilid 3;9786022230380;2;43837,5541550926;42350
+9786029227864;Buku;Ensiklopedia Alat Musik Dunia;Sarkonah;PT. Wadah Ilmu;2012;Umum;;9786029227864;2;43837,555;42350
+9786022240228;Buku;Ensiklopedia Sosiologi;Oki Prama Bakti;CV. Ghina Walafafa;2015;Umum;;9786022240228;2;43837,556400463;42350
+9786022230144;Buku;Ensiklopedia IPTEK Kimia dan Unsur;Andarini Saptika;Multazam Mulia Utama;2015;Umum;;9786022230144;2;43837,5575;42350
+9786022230137;Buku;Ensiklopedia IPTEK Makhluk Hidup;Morena Cindo;Multazam Mulia Utama;20132;Umum;;9786022230137;2;43837,5585532407;42350
+9786028641869;Buku;Kamus Bahasa Arab - Indonesia;Ust. Mifta Al-Mansyur;Bintang Indonesia;2017;Umum;;9786028641869;6;43837,5594212963;43445
+9799791247039;Buku;Kamus Bahasa Indonesia;Muhammad Ali;Pustaka Amani;2006;Umum;;9799791247039;14;43837,5622222222;43445
+9786024860257;Buku;Erlangga X-Press UN 2019 Matematika;Kasmina;Penerbit Erlangga;2018;XII;;9786024860257;18;43837,5638425926;43445
+99143;Buku;Pedoman Hidup Islami Warga Muhammadiyah;Prof. Drs. H. Asymuni Abdurrahman, dkk;Suara Muhammadiyah;2003;Umum;Keenam;9799733340;7;43837,5658912037;43445
+99144;Buku;Seni Budaya Semester 2;Zackaria;kemendikbud;2016;X;;9786024271428;135;43844,3281712963;42749
+99145;Buku;Matematika;To'ali;CV. Elok Jaya;2008;XI;;9794628158;74;43850,3897800926;41647
+99146;Buku;IPA;Suparwoto;PT. MACANAN JAYA CEMERLANG;2008;X;;9786028320337;37;43850,5584375;40391

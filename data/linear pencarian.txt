@@ -1,0 +1,273 @@
+import csv
+from flask import Flask, render_template, request, redirect, url_for
+import time
+
+
+app = Flask(__name__)
+
+def proses():
+    for index in range(10):
+        print(index)
+        time.sleep(0.5)
+        
+#tampilan route home
+@app.route('/')
+def index():
+    return render_template('home.html')
+
+#untuk menampung data
+data_up =[]
+
+#untuk perulangan angka
+@app.context_processor
+def inject_enumerate():
+    return dict(enumerate=enumerate)
+
+#untuk menampilkan data csv
+def read_data():
+    csv = []
+    with open("data.csv", "r") as reader:
+        data = reader.read()
+    for line in data.split("\n"):
+        line = line.split(";")
+        if len(line) == 13:
+            row = {
+                "Id_Buku": line[0],
+                "Jenis": line[1],
+                "Judul_Buku": line[2],
+                "Pengarang": line[3],
+                "Penerbit": line[4],
+                "Tahun_Terbit": line[5],
+                "Kelas": line[6],
+                "Edisi": line[7],
+                "Isbn": line[8],
+                "Jumlah": line[9],
+                "Tanggal_Input": line[10],
+                "Tanggal_Masuk": line[11],
+                "Foto": line[12]
+            }
+            csv.append(row)
+    return csv[1:]
+
+#ini di gunakan untuk menulis ataupun mengubah data
+def write_data_to_csv(data):
+    keys = data[0].keys() if data else []
+    with open("data.csv", "w", newline="", encoding="utf-8") as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=keys, delimiter=';')
+        writer.writeheader()
+        writer.writerows(data)
+  
+#untuk menghitung baris di file csv      
+rowcount  = 0
+for row in open("data.csv"): 
+  rowcount+= 1
+    
+
+@app.route('/data')
+def data():
+    start_time = time.time()
+    data = read_data()
+        # Waktu akhir
+    end_time = time.time()
+
+    # Durasi eksekusi
+    execution_time = end_time - start_time
+    
+    context_data = {
+        "data_perpus": data,
+        "jumlah": int(rowcount),
+        "execution_time": float(execution_time)
+    }
+    return render_template('index.html', **context_data)
+
+
+@app.route('/pinjam')
+def pinjam_buku():
+    pinjam = read_data()    
+    
+    context_data = {
+        "data_pinjam": pinjam,
+    }
+    return render_template('pinjam.html', **context_data)
+
+
+#linear searc
+def linear_search(arr, target):
+   hasl = [i for i, perpus in enumerate(arr) if perpus["Judul_Buku"].lower().find(target) != -1]
+   return hasl
+
+
+#mencari data di data csv
+@app.route('/cari')
+def menampilkan_data():
+    start_time = time.time()
+    
+    data = read_data()
+    search_key = request.args.get('search-key', '').lower()
+    hasl = linear_search(data, search_key)
+    hasil = [data[i] for i in hasl]
+    
+  # Waktu akhir
+    end_time = time.time()
+
+    # Durasi eksekusi
+    execution_time = end_time - start_time
+    
+    context_data = {
+        "data_perpus": hasil,
+        "data_time": execution_time
+    }
+    return render_template('index.html', **context_data)
+
+
+#untuk detail buku
+@app.route('/detail/<Id_Buku>')
+def detail(Id_Buku):
+    # Waktu mulai
+    start_time = time.time()
+    data = read_data()
+
+    for index in data:
+        if index.get('Id_Buku') == Id_Buku:
+            data = index
+
+    # Waktu akhir
+    end_time = time.time()
+
+    # Durasi eksekusi
+    execution_time = end_time - start_time
+
+    context_data = {
+        "data_perpus": data,
+        "execution_time": float(execution_time),
+    }
+    return render_template('detail.html', **context_data)
+
+@app.route('/kelompok')
+def kelompok():
+    return render_template('kelompok.html')
+
+@app.route('/pinjam')
+def pinjam():
+    return render_template('pinjam.html')
+
+
+#pencarian untuk di peminjaman
+@app.route('/search')
+def search_data():
+    start_time = time.time()
+    
+    data = read_data()
+    search_key = request.args.get('search-key', '').lower()
+    hasl = linear_search(data, search_key)
+    hasil = [data[i] for i in hasl]
+    
+    end_time = time.time()
+    execution_time = end_time - start_time
+    
+    context_data = {
+        "data_pinjam": hasil,
+        "data_time": execution_time
+    }
+    return render_template('pinjam.html', **context_data)
+
+
+#menghapus data di file csv
+@app.route('/hapus/<int:index>')
+def hapus(index):
+    data = read_data()
+    if 0 <= index < len(data):
+        deleted_data = data.pop(index)
+        write_data_to_csv(data)
+        print(f"Deleted item from data: {deleted_data}")
+
+    return redirect(url_for('data'))
+
+
+
+#tambah data buku
+@app.route('/tambah_data', methods=['POST'])
+def tambah_data():
+    
+                
+    Id_Buku = request.form.get('Id_Buku')
+    Jenis = request.form.get('Jenis')
+    Judul_Buku = request.form.get('Judul_Buku')
+    Pengarang = request.form.get('Pengarang')
+    Penerbit = request.form.get('Penerbit')
+    Tahun_Terbit = request.form.get('Tahun_Terbit')
+    Kelas = request.form.get('Kelas')
+    Edisi = request.form.get('Edisi')
+    Isbn = request.form.get('Isbn')
+    Jumlah = request.form.get('Jumlah')
+    Tanggal_Input = request.form.get('Tanggal_Input')
+    Tanggal_Masuk = request.form.get('Tanggal_Masuk')
+    
+                
+    new_data = {
+        "Id_Buku": Id_Buku,
+        "Jenis": Jenis,
+        "Judul_Buku": Judul_Buku,
+        "Pengarang": Pengarang,
+        "Penerbit": Penerbit,
+        "Tahun_Terbit": Tahun_Terbit,
+        "Kelas": Kelas,
+        "Edisi": Edisi,
+        "Isbn": Isbn,
+        "Jumlah": Jumlah,
+        "Tanggal_Input": Tanggal_Input,
+        "Tanggal_Masuk": Tanggal_Masuk,
+    }
+
+    data = read_data()
+    data.append(new_data)
+    write_data_to_csv(data)
+
+    return redirect(url_for('data'))
+
+
+#chekout atau melakukan peminjaman
+app.secret_key = 'your_secret_key'
+
+#untuk menampung data 
+checkout_list = []
+
+#untuk add data peminjaman
+@app.route('/add_to_checkout/<Id_Buku>', methods=['POST'])
+def add_to_checkout(Id_Buku):
+    global checkout_list
+    book = get_book_by_id(Id_Buku)
+
+    if book:
+        checkout_list.append(book)
+
+    return redirect(url_for('checkout'))
+
+@app.route('/checkout')
+def checkout():
+    global checkout_list
+    return render_template('checkout.html', checkout_list=checkout_list)
+
+def get_book_by_id(Id_Buku):
+    data = read_data()
+    for book in data:
+        if book['Id_Buku'] == Id_Buku:
+            return book
+    return None
+
+
+#digunakan untuk menghapus data di data peminjaman
+@app.route('/clear_checkout/<int:index>')
+def clear_checkout(index):
+    global checkout_list
+
+    if 0 <= index < len(checkout_list):
+        deleted_item = checkout_list.pop(index)
+
+        print(f"Deleted item from checkout: {deleted_item}")
+
+    return redirect(url_for('checkout'))
+
+
+if __name__ == '__main__':
+    app.run(debug = True)

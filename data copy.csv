@@ -1,0 +1,182 @@
+Id buku;jenis;judul Buku;pengarang;penerbit;Tahun Terbit;kelas;edisi;isbn;jumlah;tanggal input;tanggal masuk
+99118;Buku;Lampung Sai Bumi Ruwa Jurai;Firman Sujadi;Cita Insan Madani;2014;Umum;No Revisi;9786021913635;71;21/09/2019;25/08/2018
+99117;Buku;Mengenal Budaya Lampung Dalam 4 Bahasa;A.Saibani, dkk;Ad Print Mitra Pusaka;2014;Umum;No Revisi;9786029224207;70;21/09/2019;26/08/2018
+99116;Buku;Bahasa Inggris;Yunika Rotua L;kemendikbud;2017;XI;revisi 2017;9786024271084;38;21/09/2019;27/08/2018
+99115;Buku;Bahasa Inggris;;kemendikbud;2018;XII;revisi 2018;9786024271091;39;21/09/2019;28/08/2018
+99114;Buku;Bahasa Inggris;Utami Widiati, dkk;kemendikbud;2017;X;revisi 2017;9786024271077;133;21/09/2019;29/08/2018
+99113;Buku;Bahasa Indonesia;Suherli;kemendikbud;2017;XI;Revisi 2017;9786024271008;35;21/09/2019;30/08/2018
+99112;Buku;Bahasa Indonesia;Suherli;kemendikbud;2017;X;revisi 2016;9786024270995;135;21/09/2019;31/08/2018
+99111;Buku;Bahasa Indonesia;Maman Suryaman;kemendikbud;2018;XII;revisi 2018;9786024271015;40;21/09/2019;01/09/2018
+99110;Buku;Bahasa Indonesia;Mokhamad Irman;PT. INTAN SEJATI KLATEN;2008;XII;No Revisi;9794628697;42;21/09/2019;02/09/2018
+99109;Buku;Sejarah Indonesia;Restu Gunawan;kemendikbud;2016;X;revisi 2016;9786024271220;120;21/09/2019;03/09/2018
+99108;Buku;Sejarah Indonesia;Sardiman;INTAN PARIWARA;2018;XI;revisi 2017;9786024271251;80;21/09/2019;04/09/2018
+99107;Buku;Sejarah Indonesia;Abdurakhman;INTAN PARIWARA;2018;XII;revisi 2018;9786024271251;40;21/09/2019;05/09/2018
+99106;Buku;Matematika;Bornok, dkk;kemendikbud;2014;X;revisi 2014;9786022824923;112;21/09/2019;06/09/2018
+99105;Buku;Matematika;Bornok, dkk;kemendikbud;2017;X;revisi 2017;9786024271152;135;21/09/2019;07/09/2018
+99104;Buku;Kewarganegaraan;Nuryadi;INTAN PARIWARA;2017;X;revisi 2017;9786024270919;133;21/09/2019;08/09/2018
+99103;Buku;Kewarganegaraan;Yuusnawan Lubis;INTAN PARIWARA;2017;XI;revisi 2017;9786024270926;40;21/09/2019;09/09/2018
+99102;Buku;Kewarganegaraan;Yuusnawan Lubis;INTAN PARIWARA;2018;XII;revisi 2018;9786024270933;40;21/09/2019;10/09/2018
+99101;Buku;Pemrograman Dasar;Imam Hari P;Yudhistira;2014;X;No Revisi;9786024270940;17;21/09/2019;11/09/2018
+99100;Buku;Fisika;Sutejo;Yudhistira;2013;X;No Revisi;9789790927278;20;21/09/2019;12/09/2018
+99099;Buku;Fisika;Sutejo;Yudhistira;2014;XI;No Revisi;9789790927285;18;21/09/2019;13/09/2018
+99098;Buku;Kimia;Emi Erawati;Yudhistira;2013;X;No Revisi;9789790927322;20;21/09/2019;14/09/2018
+99097;Buku;Kimia;Emi Erawati;Yudhistira;2014;XI;No Revisi;9789790927339;20;21/09/2019;15/09/2018
+99096;Buku;IPA;Suparwoto;PT. MACANAN JAYA CEMERLANG;2009;Umum;No Revisi;9786028320337;37;21/09/2019;16/09/2018
+99095;Buku;Simulasi dan Komunikasi Digital;Sri Wahyuni;Bumi Aksara;2019;X;No Revisi;9786024443269;22;21/09/2019;17/09/2018
+99094;Buku;Fisika;Sutejo;Yudhistira;2014;X;No Revisi;9789790927292;20;23/09/2019;18/09/2018
+99093;Buku;Fisika;Sutejo;Yudhistira;2014;XI;No Revisi;9789790927308;19;23/09/2019;19/09/2018
+99092;Buku;Seni Budaya;Zackaria;INTAN PARIWARA;2017;X;revisi 2017;9786024271435;137;23/09/2019;20/09/2018
+99091;Buku;Komputer akuntansi;Agus Mulyono, S.E;Bumi Aksara;2019;XII;No Revisi;9786024445713;24;24/09/2019;21/09/2018
+99090;Buku;Akuntansi Dasar;Dian Puspitasari;Bumi Aksara;2018;X;No Revisi;9786024443382;24;24/09/2019;22/09/2018
+99089;Buku;Komputer akuntansi;Agus Mulyono, S.E;Bumi Aksara;2019;XI;No Revisi;9786024445706;24;24/09/2019;23/09/2018
+99088;Buku;Pemograman web dan perangkat bergerak;sumari agus prasetyo;Bumi Aksara;2019;XII;No Revisi;9786024445935;24;24/09/2019;24/09/2018
+99087;Buku;Administrasi umum;Sri Wahyuni;Yudhistira;2013;X;revisi 2017;9786024454432;17;24/09/2019;25/09/2018
+99086;Buku;Marketing ;Sutrisno;Yudhistira;2018;X;Revisi 2017;9786024453138;8;24/09/2019;26/09/2018
+99085;Buku;Produk Kreatif dan Kewirausahaan;Dody Kusuma;Yudhistira;2018;XI;Revisi 2017;9786024454166;15;24/09/2019;27/09/2018
+99084;Buku;Perbankan Dasar ;Reham munas;Bumi Aksara;2018;X;No Revisi;9786024443474;24;24/09/2019;28/09/2018
+99083;Buku;Administrasi Transaksi;Deseven Dasih;Bumi Aksara;2019;XII;No Revisi;9786024445294;24;24/09/2019;29/09/2018
+99082;Buku;Administrasi Transaksi;Deseven Dasih;Bumi Aksara;2019;XI;No Revisi;9786024445287;24;24/09/2019;30/09/2018
+99081;Buku;Praktikum Akuntansi Lembaga/Instansi Pemerintah;Sri Wahyuni;Bumi Aksara;2019;XI;No Revisi;9786024445850;24;24/09/2019;01/10/2018
+99080;Buku;Praktikum Akuntansi Lembaga/Instansi Pemerintah;Sri Tarmiyati;Bumi Aksara;2019;XII;No Revisi;9786024445867;24;24/09/2019;02/10/2018
+99079;Buku;Pengelolaan Bisnis Retail;Deseven Dasih;Bumi Aksara;2019;XII;No Revisi;9786024445157;24;24/09/2019;03/10/2018
+99078;Buku;Pengelolaan Bisnis Retail;Deseven Dasih;Bumi Aksara;2019;XI;No Revisi;9786024445140;24;24/09/2019;04/10/2018
+99077;Buku;Bisnis Online;Yudi Andriyanto;Bumi Aksara;2019;XI;No Revisi;9786024445171;24;24/09/2019;05/10/2018
+99076;Buku;Bisnis Online;Yudi Andriyanto;Bumi Aksara;2019;XII;No Revisi;9786024445188;24;24/09/2019;06/10/2018
+99075;Buku;Penataan Produk;Yudi Andriyanto;Bumi Aksara;2019;XII;No Revisi;9786024445218;24;24/09/2019;07/10/2018
+99074;Buku;Penataan Produk;Yudi Andriyanto;Bumi Aksara;2019;XI;No Revisi;9786024445201;24;24/09/2019;08/10/2018
+99073;Buku;Gambar Teknik otomotif;Ridlho Erfan Nugroho;Bumi Aksara;2018;X;No Revisi;9786024443528;24;24/09/2019;09/10/2018
+99072;Buku;Pekerjaan Dasar Teknik Otomotif;Ridlho Erfan Nugroho;Bumi Aksara;2019;X;No Revisi;9786024443399;24;24/09/2019;10/10/2018
+99071;Buku;Teknologi Dasar Otomotif;Ridlho Erfan Nugroho;Bumi Aksara;2018;X;No Revisi;9786024443535;24;24/09/2019;11/10/2018
+99070;Buku;Simulasi dan Komunikasi Digital;Sri Wahyuni;Bumi Aksara;2019;X;No Revisi;9786024443269;24;24/09/2019;12/10/2018
+99069;Buku;Dasar Desain Grafis;Aru Tirto Prihono;Bumi Aksara;2019;X;No Revisi;9786024442729;24;24/09/2019;13/10/2018
+99068;Buku;Administrasi Infrastruktur Jaringan;sutrisno ;Bumi Aksara;2019;XII;No Revisi;9786024445744;24;24/09/2019;14/10/2018
+99067;Buku;Administrasi Infrastruktur Jaringan;Sutrisno;Bumi Aksara;2019;XI;No Revisi;9786024445737;24;24/09/2019;15/10/2018
+99066;Buku;Administrasi sistem Jaringan;M. Rizal;Bumi Aksara;2019;XII;No Revisi;9786024445775;24;24/09/2019;16/10/2018
+99065;Buku;Administrasi sistem Jaringan;M. Rizal;Bumi Aksara;2019;XI;No Revisi;9786024445768;24;24/09/2019;17/10/2018
+99064;Buku;Teknologi Layanan Jaringan ;M. Rizal;Bumi Aksara;2019;XII;No Revisi;9786024445591;24;24/09/2019;18/10/2018
+99063;Buku;Basis Data;Darso;Bumi Aksara;2019;XI;No Revisi;9786024445553;24;24/09/2019;19/10/2018
+99062;Buku;Basis Data;Darsono;Bumi Aksara;2019;XII;No Revisi;9786024445560;24;24/09/2019;20/10/2018
+99061;Buku;Pemodelan Perangkat Lunak;Darsono;Bumi Aksara;2019;XI;No Revisi;9786024445874;24;24/09/2019;21/10/2018
+99060;Buku;Pemrograman Berorientasi Objek;Patwiyanto;Bumi Aksara;2019;XII;No Revisi;9786024445904;24;24/09/2019;22/10/2018
+99059;Buku;Pemrograman Web dan Perangkat Bergerak;sumari agus prasetyo;Bumi Aksara;2019;XI;No Revisi;9786024445928;24;24/09/2019;23/10/2018
+99058;Buku;Pemrograman Dasar;Yuliana Ardiyanti;Bumi Aksara;2018;X;No Revisi;9786024443108;24;24/09/2019;24/10/2018
+99057;Buku;Pemograman Berorientasi Objek;Patwiyanto;Bumi Aksara;2019;XI;No Revisi;9786024445898;24;24/09/2019;25/10/2018
+99056;Buku;Akuntansi Perusahaan Jasa dan Dagang;Toto Sucipto;Yudhistira;2015;XI;Pertama;9789790194434;20;25/09/2019;26/10/2018
+99055;Buku;Ilmu Resep;Maryani;APMFI;2016;X;No Revisi;9786026339225;9;25/09/2019;27/10/2018
+99054;Buku;Akuntansi Dan Keuangan;Toto Sucipto;Yudhistira;2014;X;No Revisi;9789790928602;24;25/09/2019;28/10/2018
+99053;Buku;Komputer akuntansi;Priyo Candra Pratama;Yudhistira;2018;XI;Revisi 2017;9786024451684;20;25/09/2019;29/10/2018
+99052;Buku;Akuntansi;Toto Sucipto;Yudhistira;2011;XII;No Revisi;9789790920811;19;25/09/2019;30/10/2018
+99051;Buku;Etika Profesi;Rikky Firmansyah;Yudhistira;2018;X;Revisi 2017;9786024454357;16;25/09/2019;31/10/2018
+99050;Buku;Administrasi Pajak;Agus syarif;Yudhistira;2017;XII;Revisi 2017;9786022998662;20;25/09/2019;01/11/2018
+99049;Buku;Perencanaan Bisnis;sutrisno ;Yudhistira;2018;X;Revisi 2017;9786024453015;9;25/09/2019;02/11/2018
+99048;Buku;Adm. Pajak 1;Agus Syarif;Yudhistira;2017;XI;revisi 2017;9786022998655;18;26/09/2019;03/11/2018
+99047;Buku;Al-Islam dan Kemuhammadiyahan;Dr.H. Husni Tohyar;Majelis Dikdasmen PP Muhammadiyah;2012;XII;No Revisi;9788087049099;67;26/09/2019;04/11/2018
+99046;Buku;Perakitan Komputer;Heriyanto dkk;Yudhistira;2013;X;No Revisi;9789790929326;13;26/09/2019;05/11/2018
+99045;Buku;Pemrograman Web ;Heriyanto dkk;Yudhistira;2013;X;No Revisi;9789790929999;13;26/09/2019;06/11/2018
+99044;Buku;Sistem Komputer;Heriyanto dkk;Yudhistira;2013;X;No Revisi;9789790927438;17;26/09/2019;07/11/2018
+99043;Buku;Pemrograman Dasar ;Heriyanto dkk;Yudhistira;2013;XI;No Revisi;9789790927421;19;26/09/2019;08/11/2018
+99042;Buku;Servis Mesin dan Komponenya;Nono Budiarto;Yudhistira;2007;Umum;No Revisi;9789797469290;10;26/09/2019;09/11/2018
+99041;Buku;PDTM;Umaryadi;Yudhistira;2007;XII;No Revisi;9789797464301;10;26/09/2019;10/11/2018
+99040;Buku;Keterampilan Komputer dan Pengelolaan Informasi;Drs. Mardi, dkk;Yudhistira;2011;X;Kedua;9789790920200;28;26/09/2019;11/11/2018
+99039;Buku;Keterampilan Komputer dan Pengelolaan Informasi;Drs. Mardi, dkk;Yudhistira;2011;XII;No Revisi;9789790920224;20;26/09/2019;12/11/2018
+99038;Buku;TKJ;Fauziah S.Kom;Yudhistira;2012;XII;No Revisi;9789790198173;9;26/09/2019;13/11/2018
+99037;Buku;TKJ;Fauziah S.Kom;Yudhistira;2011;XI;No Revisi;9789790198166;10;26/09/2019;14/11/2018
+99036;Buku;Buku Guru Bahasa Indonesia;Maman Suryaman;kemendikbud;2018;XII;Revisi 2018;9786024271053;2;26/09/2019;15/11/2018
+99035;Buku;Akuntansi ;Toto Sucipto;Yudhistira;2011;XI;No Revisi;9789790920804;18;27/09/2019;16/11/2018
+99034;Buku;Farmakognosi;TH. Hetty Nurwidiyati, S.Si., Apt;APMFI;2016;X;No Revisi;9786026339096;9;27/09/2019;17/11/2018
+99033;Buku;K3LH;Yudha Sukowati;APMFI;2016;X;No Revisi;9786026339287;9;27/09/2019;18/11/2018
+99032;Buku;Perundang-undangan Kesehatan;Sion Pinem,S.Si.,Apt;APMFI;2016;X;No Revisi;9786026339218;8;27/09/2019;19/11/2018
+99031;Buku;Farmakognosi;Muh. Yani Zamzam;Buku Kedokteran EGC;2017;Umum;jilid 1;9789790445758;1;27/09/2019;20/11/2018
+99030;Buku;Farmakognosi;Muh. Yani Zamzam;Buku Kedokteran EGC;2017;Umum;jilid 2;9789790445765;1;27/09/2019;21/11/2018
+99029;Buku;Farmakognosi;Teguh Setiawan;Buku Kedokteran EGC;2017;Umum;jilid 1;9789790448285;1;27/09/2019;22/11/2018
+99028;Buku;Farmakognosi;Teguh Setiawan;Buku Kedokteran EGC;2017;Umum;jilid 2;9789790448292;1;27/09/2019;23/11/2018
+99027;Buku;Dasar-dasar Kefarmasian;Pegi Pradika Mudayanti;Buku Kedokteran EGC;2018;Umum;volume 1;9789790449077;1;27/09/2019;24/11/2018
+99026;Buku;Dasar-dasar Kefarmasian;Pegi Pradika Mudayanti;Buku Kedokteran EGC;2018;Umum;volume 2;9789790449084;1;27/09/2019;25/11/2018
+99025;Buku;Pelayanan Farmasi Ilmu Resep;Ai Kuraesin, S.Si., Apt;Buku Kedokteran EGC;2017;XI & XII;revisi 2017;9789790449213;1;28/09/2019;26/11/2018
+99024;Buku;Pelayanan Farmasi Administrasi Farmasi;Syukrina, S.Si., Apt;Buku Kedokteran EGC;2017;XII;revisi 2017;9789790449206;1;28/09/2019;27/11/2018
+99023;Buku;Al-islam dan Kemuhammadiyahan;Husni Tohyar;Majelis Dikdasmen PP Muhammadiyah;2013;XI;No Revisi;9786028231473;17;30/09/2019;28/11/2018
+99022;Buku;Agama Islam da Budi Pekerti;Sholeh Dimyathi;kemendikbud;2018;XII;revisi 2018;9786024270452;39;30/09/2019;29/11/2018
+99021;Buku;Agama Islam da Budi Pekerti;Mustahdi dan Mustakim;kemendikbud;2017;XI;revisi 2017;9786024270445;23;30/09/2019;30/11/2018
+99020;Buku;Al-islam dan Kemuhammadiyahan;Husni Tohyar;Majelis Dikdasmen PP Muhammadiyah;2013;XII;No Revisi;9786028231480;15;30/09/2019;01/12/2018
+99019;Buku;Matematika;Abdur Rahman;kemendikbud;2018;XII;revisi 2018;9786024271176;40;30/09/2019;02/12/2018
+99018;Buku;Akuntansi Keuangan;Ika Widiyanti;Bumi Aksara;2019;XII;No Revisi;9786024445836;25;03/10/2019;03/12/2018
+99017;Buku;Akuntansi Keuangan;Ika Widiyanti;Bumi Aksara;2019;XI;No Revisi;9786024445829;25;03/10/2019;04/12/2018
+99016;Buku;Praktikum Akuntansi Perusahaan Jasa, Dagang, dan Manufaktur;Sri Tarmiyati;Bumi Aksara;2019;XII;No Revisi;9786024445683;25;03/10/2019;05/12/2018
+99015;Buku;Penjaskes;Syarifudin;kemendikbud;2017;X;revisi 2017;9786022824657;140;05/10/2019;06/12/2018
+99014;Buku;Perundang-undangan kesehatan;Sion Pinem,S.Si.,Apt;APMFI;2016;X;No Revisi;9786022284218;10;05/10/2019;07/12/2018
+99013;Buku;Matematika Penjualan dan Akuntansi;To'ali;PT. Indahjaya Adipratama;2008;XII;No Revisi;9786021473632;131;25/10/2019;08/12/2018
+99012;Buku;Kembara Rindu;Habiburrahman El Shirazy;Republika Penerbit;2019;Umum;No Revisi;9786237458098;10;14/11/2019;09/12/2018
+99011;Buku;Memoar of Jeddah;Jihan Davincka;PT. Elex Media Komputindo;2013;Umum;No Revisi;9786020220970;1;11/12/2019;10/12/2018
+99010;Buku;HALIMUN;Rina TH;PT.Gramedia Widiasarana;2014;Umum;No Revisi;9786022515043;6;12/12/2019;11/12/2018
+99009;Novel;Menggapai Matahari;Adnan Katino;PT.Gramedia  ;2010;Umum;No Revisi;9789792262629;2;12/12/2019;11/12/2018
+99008;Novel;Aku,Cinta,dan Petang;adenita dkk;PT.Gramedia  ;2014;Umum;No Revisi;9786020301969;3;12/12/2019;11/12/2018
+99007;Novel;#followers;Ardini dkk;mediakita;2013;Umum;cetakan pertama;9789797944056;6;12/12/2019;11/12/2018
+99006;Buku;Kuntilanak Cemen;Eni Martini;PT. Elex Media Komputindo;2012;Umum;No Revisi;9786020020907;1;12/12/2019;11/12/2018
+99005;Novel;Bila Musim telah Berganti;Purwati Sugito;PT. Elex Media Komputindo;2014;Umum;No Revisi;9786020235592;1;12/12/2019;11/12/2018
+99004;Novel;HAnya Sebutir Debu;Sandi Firly;PT. Elex Media Komputindo;2014;Umum;No Revisi;9786020237626;4;12/12/2019;11/12/2018
+99003;Buku;Sang Waktu;Happy S Tjandra;Gradien Mediatama;2017;Umum;sembilan;9786028260947;5;12/12/2019;12/12/2018
+99002;Novel;Pengantin Qur'an;Arif Wardani;Wahyumedia;2013;Umum;pertama;9789797957629;5;12/12/2019;11/12/2018
+99001;Novel;Enigma;Yudhi Herwibowo;PT. Grasindo;2013;Umum;No Revisi;9786022511922;3;12/12/2019;11/12/2018
+99000;Novel;Cinta Kala Perang;Masriadi Sambo;PT. Elex Media Komputindo;2014;Umum;No Revisi;9786020231853;6;12/12/2019;11/12/2018
+98999;Novel;Kedai Bianglala;Anggun Prameswari;PT. Gramedia Widiasarana;2014;Umum;No Revisi;9786022513643;6;12/12/2019;11/12/2018
+98998;Novel;The Summer i Turned Pretty;Jenny Han;Gradien Mediatama;2013;Umum;ketiga;9786022080503;2;12/12/2019;11/12/2018
+98997;Novel;Aku Tak Marah;Djokolelono;Moka Media;2014;Umum;No Revisi;9789797958695;6;12/12/2019;11/12/2018
+98996;Novel;Dua Masa di Mata Fe;Dyah Prameswarie;Moka Media;2014;Umum;No Revisi;9789797958725;3;13/12/2019;11/12/2018
+98995;Novel;Letter to My Daughter;Maya Angelou;Gagas Media;2012;Umum;No Revisi;9789797805784;3;13/12/2019;11/12/2018
+98994;Novel;Amazing Fay;Tian Arief & Efin Fintiana;PT. Lintas Kata;2013;Umum;Pertama;9786021765821;3;13/12/2019;11/12/2018
+98993;Novel;Senandung Cinta di Lembah Papua;Pujia Achmad;PT. Elex Media Komputindo;2014;Umum;No Revisi;9786020238975;3;13/12/2019;11/12/2018
+98992;Novel;Sungguh, Hanya Karena Engkau Aku Berhijab;Aminah Mustari dkk;Qultum Media;2012;Umum;pertama;9789790172340;3;13/12/2019;11/12/2018
+98991;Novel;Cenat-cenut Reporter;Wuri Nugraeni;Gradien Mediatama;2015;Umum;kelima;9786022081081;3;14/12/2019;11/12/2018
+98990;Novel;Kapitan Pedang Panjang;Fira Basuki;PT. Gramedia Widiasarana;2010;Umum;No Revisi;9789790813298;2;14/12/2019;11/12/2018
+98989;Novel;Relif;Dion & Intan W Puspita;Caesar Media Pustaka;2013;Umum;No Revisi;9786021876084;3;14/12/2019;11/12/2018
+98988;Buku;Dua Arus Selokan Mataram;Kagama Virtual;PT. Elex Media Komputindo;2014;Umum;No Revisi;9786020233130;2;07/01/2020;11/12/2018
+98987;Novel;PUAS;Alisnaik;BUKUNE;2012;Umum;No Revisi;9786022200437;2;07/01/2020;11/12/2018
+98986;Novel;Serba Serbi Profesi;Anwar & Tantrina;BUKUNE;2010;Umum;No Revisi;9786028066815;2;07/01/2020;11/12/2018
+98985;Novel;Temanmu Bahagiamu;Syekh Mustafa Al-Adawi;Tinta Medina;2013;Umum;No Revisi;9786029211948;2;07/01/2020;11/12/2018
+98984;Novel;Daun Putri Malu;Magdalena Sitorus;PT. Gramedia Pustaka Utama;2013;Umum;No Revisi;9789792299939;2;07/01/2020;11/12/2018
+98983;Novel;Lilin;Ferry Triadi Sasono, dkk;PT. Elex Media Komputindo;2014;Umum;No Revisi;9786020238944;1;07/01/2020;11/12/2018
+98982;Novel;TUAN KEN(TUT);Fx Rudy Gunawan;Gagas Media;2013;Umum;No Revisi;9789791806644;2;07/01/2020;11/12/2018
+98981;Novel;Les Masques;Indah Hanaco;PT. Gramedia Widiasarana;2014;Umum;No Revisi;9786022514657;2;07/01/2020;11/12/2018
+98980;Novel;Sapporo No Niji;Hapsari Hanggarini;Gagas Media;2012;Umum;No Revisi;9789797805609;2;07/01/2020;11/12/2018
+98979;Buku;Erlangga X-Press UN 2019 B. Inggris;Endrawati | H. Genderia Sari;Penerbit Erlangga;2018;XII;No Revisi;9786024860233;16;07/01/2020;11/12/2018
+98978;Buku;Ensiklopedia IPTEK Gaya dan Gerak;Oki Prama Bakti;Multazam Mulia Utama;2015;Umum;No Revisi;9786022230090;2;07/01/2020;12/12/2015
+98977;Buku;Ensiklopedia IPTEK Cahaya dan Alat Optik;Andarini Saptika;Multazam Mulia Utama;2010;Umum;No Revisi;9786022230083;2;07/01/2020;12/12/2015
+98976;Buku;Ensiklopedia IPTEK Alam Semesta;Morena Cindo;Multazam Mulia Utama;2010;Umum;No Revisi;9786022230151;2;07/01/2020;12/12/2015
+98975;Buku;Ensiklopedia IPTEK Bahan dan Teknologi;Fachri Aljupri;Multazam Mulia Utama;2013;Umum;No Revisi;9786022230120;2;07/01/2020;12/12/2015
+98974;Buku;Ensiklopedia Geografi Eropa;Morena Cindo;CV. Ghina Walafafa;2012;Umum;No Revisi;9786022240396;2;07/01/2020;12/12/2015
+98973;Buku;Ensiklopedia Bahasa & Sastra;Octaria Sulistyani;Multazam Mulia Utama;2010;Umum;Jilid 5;9786022230472;2;07/01/2020;11/12/2019
+98972;Buku;English Encyclopedia;Umi Habibah;CV. Sahala Adidayatama;2015;Umum;No Revisi;9786022220206;2;07/01/2020;12/12/2015
+98971;Buku;Ensiklopedia Sejarah;Yuyus Kardiman;Multazam Mulia Utama;2011;Umum;Jilid 4;9786028505949;2;07/01/2020;12/12/2015
+98970;Buku;Ensiklopedia Ekonomi;Oki Prama Bakti;CV. Citraunggul Laksana;2011;Umum;Jilid 2;9786029235166;2;07/01/2020;12/12/2015
+98969;Buku;Ensiklopedia Sejarah;Yuyus Kardiman;Multazam Mulia Utama;2010;Umum;Jilid 3;9786028505932;2;07/01/2020;12/12/2015
+98968;Buku;Ensiklopedia Kewarganegaraan;Andarini Saptika;Multazam Mulia Utama;2010;Umum;Jilid 3;9786022230380;2;07/01/2020;12/12/2015
+98967;Buku;Ensiklopedia Alat Musik Dunia;Sarkonah;PT. Wadah Ilmu;2012;Umum;No Revisi;9786029227864;2;07/01/2020;12/12/2015
+98966;Buku;Ensiklopedia Sosiologi;Oki Prama Bakti;CV. Ghina Walafafa;2015;Umum;No Revisi;9786022240228;2;07/01/2020;12/12/2015
+98965;Buku;Ensiklopedia IPTEK Kimia dan Unsur;Andarini Saptika;Multazam Mulia Utama;2015;Umum;No Revisi;9786022230144;2;07/01/2020;12/12/2015
+98964;Buku;Ensiklopedia IPTEK Makhluk Hidup;Morena Cindo;Multazam Mulia Utama;20132;Umum;No Revisi;9786022230137;2;07/01/2020;12/12/2015
+98963;Buku;Kamus Bahasa Arab - Indonesia;Ust. Mifta Al-Mansyur;Bintang Indonesia;2017;Umum;No Revisi;9786028641869;6;07/01/2020;11/12/2018
+98962;Buku;Kamus Bahasa Indonesia;Muhammad Ali;Pustaka Amani;2006;Umum;No Revisi;9799791247039;14;07/01/2020;11/12/2018
+98961;Buku;Erlangga X-Press UN 2019 Matematika;Kasmina;Penerbit Erlangga;2018;XII;No Revisi;9786024860257;18;07/01/2020;11/12/2018
+98960;Buku;Pedoman Hidup Islami Warga Muhammadiyah;Prof. Drs. H. Asymuni Abdurrahman, dkk;Suara Muhammadiyah;2003;Umum;Keenam;9790611134776;7;07/01/2020;11/12/2018
+98959;Buku;Seni Budaya Semester 2;Zackaria;kemendikbud;2016;X;No Revisi;9790609243970;135;14/01/2020;14/01/2017
+98958;Buku;Matematika;To'ali;CV. Elok Jaya;2008;XI;No Revisi;9790607353164;74;20/01/2020;08/01/2014
+98957;Buku;IPA;Suparwoto;PT. MACANAN JAYA CEMERLANG;2008;X;No Revisi;9790605462358;37;20/01/2020;01/08/2010
+98956;Buku;Agama Islam da Budi Pekerti;Mustahdi dan Mustakim;kemendikbud;2017;XI;revisi 2017;9790603571552;23;30/09/2019;30/11/2018
+98955;Buku;Al-islam dan Kemuhammadiyahan;Husni Tohyar;Majelis Dikdasmen PP Muhammadiyah;2013;XII;No Revisi;9790601680746;15;30/09/2019;01/12/2018
+98954;Buku;Matematika;Abdur Rahman;kemendikbud;2018;XII;revisi 2018;9790599789940;40;30/09/2019;02/12/2018
+98953;Buku;Akuntansi Keuangan;Ika Widiyanti;Bumi Aksara;2019;XII;No Revisi;9790597899134;25;03/10/2019;03/12/2018
+98952;Buku;Akuntansi Keuangan;Ika Widiyanti;Bumi Aksara;2019;XI;No Revisi;9790596008328;25;03/10/2019;04/12/2018
+98951;Buku;Praktikum Akuntansi Perusahaan Jasa, Dagang, dan Manufaktur;Sri Tarmiyati;Bumi Aksara;2019;XII;No Revisi;9790594117522;25;03/10/2019;05/12/2018
+98950;Buku;Penjaskes;Syarifudin;kemendikbud;2017;X;No Revisi;9790592226716;140;05/10/2019;06/12/2018
+98949;Buku;Perundang-undangan kesehatan;Sion Pinem,S.Si.,Apt;APMFI;2016;X;No Revisi;9790590335910;10;05/10/2019;07/12/2018
+98948;Buku;Matematika Penjualan dan Akuntansi;To'ali;PT. Indahjaya Adipratama;2008;XII;No Revisi;9790588445104;9;25/10/2019;08/12/2018
+98947;Buku;Kembara Rindu;Habiburrahman El Shirazy;Republika Penerbit;2019;Umum;No Revisi;9790586554298;4;14/11/2019;09/12/2018
+98946;Buku;Memoar of Jeddah;Jihan Davincka;PT. Elex Media Komputindo;2013;Umum;No Revisi;9790584663492;1;11/12/2019;10/12/2018
+98945;Buku;HALIMUN;Rina TH;PT.Gramedia Widiasarana;2014;Umum;No Revisi;9790582772686;6;12/12/2019;11/12/2018
+98944;Novel;Menggapai Matahari;Adnan Katino;PT.Gramedia  ;2010;Umum;No Revisi;9790580881880;2;12/12/2019;11/12/2018
+98943;Novel;Aku,Cinta,dan Petang;adenita dkk;PT.Gramedia  ;2014;Umum;No Revisi;9790578991074;3;12/12/2019;11/12/2018
+98942;Novel;#followers;Ardini dkk;mediakita;2013;Umum;cetakan pertama;9790577100268;6;12/12/2019;11/12/2018
+98941;Buku;Kuntilanak Cemen;Eni Martini;PT. Elex Media Komputindo;2012;Umum;No Revisi;9790575209462;1;12/12/2019;11/12/2018
+98940;Novel;Bila Musim telah Berganti;Purwati Sugito;PT. Elex Media Komputindo;2014;Umum;No Revisi;9790573318656;1;12/12/2019;11/12/2018
+98939;Novel;HAnya Sebutir Debu;Sandi Firly;PT. Elex Media Komputindo;2014;Umum;No Revisi;9790571427850;4;12/12/2019;11/12/2018
+98938;Buku;Sang Waktu;Happy S Tjandra;Gradien Mediatama;2017;Umum;sembilan;9790569537044;5;12/12/2019;12/12/2018

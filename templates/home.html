@@ -1,0 +1,135 @@
+{% extends "base.html" %}
+
+{% block title %}Smart Perpus | Home{% endblock %}
+
+{% block content %}
+
+  <main class="container1">
+    <div class="row">
+      <div class="col-md-6">
+          </br>
+          <h2>Selamat Datang</h2><br>
+          <p class="lead">Selamat Datang di <strong>Smart Perpus</strong>, Smart Perpus adalah sebuah Wadah atau tempat yang didedikasikan untuk mengumpulkan, menyimpan, 
+            merawat, dan menyediakan akses kepada berbagai jenis bahan bacaan dan sumber informasi. Tujuan utama dari smart Perpus adalah menyediakan layanan yang mendukung pendidikan, penelitian, dan pengembangan pribadi masyarakat. 
+            <br><br><a href="{{ url_for('data')}}" class="btn btn-lg btn-primary">Learn more</a>
+        </p>
+      </div>
+      <div class="col-md-6 d-flex justify-content-center ">
+        <img class="image" src="{{ url_for('static',filename='img/ly2.svg')}}"></img>
+      </div>
+  </div>
+</main>
+<br>
+<br>
+    <div class="container">
+      <div class="row text-center">
+        <div class="col">
+          <img style="filter: grayscale(100%)" src="{{ url_for('static', filename='img/sm3.png')}}" class="img-fluid" alt="Logo 1">
+        </div>
+        <div class="col">
+          <img style="filter: grayscale(100%)" src="{{ url_for('static', filename='img/umko.png')}}" class="img-fluid" alt="Logo 2">
+        </div>
+        <div class="col">
+          <img style="filter: grayscale(100%)" src="{{ url_for('static', filename='img/umpri.png')}}" class="img-fluid" alt="Logo 3">
+        </div>
+        <div class="col">
+          <img style="filter: grayscale(100%)" src="{{ url_for('static', filename='img/kms.png')}}" class="img-fluid" alt="Logo 4">
+        </div>
+      </div>
+    </div>
+    <br>
+  <br>
+  <h1 class="text-center">Tentang Aplikasi</h1>
+  <p class="text-center">Website ini yang di rancang untuk kaum Gen-Z dan Milenial</p>
+  <br>
+</div>
+<div class="container center">
+  <div class="row">
+    <div class="col-md-4 d-flex justify-content-center">
+      <div class="card" onclick="animateCard(this)">
+        <div class="card-body">
+          <h5 class="card-title">Akses Gratis Ratusan Buku</h5>
+          <p class="card-text">Aplikasi ini memiliki ratusan buku di dalamnya dan juga tersedia dengan gratis</p>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="col-md-4 d-flex justify-content-center" >
+      <div class="card" onclick="animateCard(this)">
+        <div class="card-body">
+          <h5 class="card-title">Aplikasi Aman Dan Praktis</h5>
+          <p class="card-text">Aplikasi Smart Perpus ini sangat aman dan lebih praktis di bandingkan kita meminjam buku ke perpus</p>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="col-md-4 d-flex justify-content-center" >
+      <div class="card" onclick="animateCard(this)" >
+        <div class="card-body">
+          <h5 class="card-title">Kemudahan dalam mengakses dan mengontrol</h5>
+          <p class="card-text">Aplikasi ini juga sangat mudah di gunakan dalam pengontrolan dan pengolahan </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<div class="container">
+    <div class="row">
+      <div class="col-md-6 d-flex justify-content-center">
+        <img class="image"  src="{{ url_for('static',filename='img/ly6.svg')}}"></img>
+      </div>
+      <div class="col">
+        <h2>Akses Mudah dan Cepat</h2>
+        <p class="lead">Pengguna dapat mengakses koleksi perpustakaan secara instan tanpa harus datang ke lokasi fisik perpustakaan.
+          Informasi dapat diakses dari berbagai perangkat seperti komputer, tablet, atau ponsel, memungkinkan pengguna untuk membaca di mana saja dan kapan saja.
+        </p>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div class="row">
+      <div class="col">
+        <h2>Manajemen Koleksi yang Lebih Baik</h2>
+        <p class="lead">Aplikasi ini memungkinkan perpustakaan untuk dengan mudah mengelola koleksi buku dan materi lainnya, termasuk pembaruan inventaris, penambahan baru, dan penghapusan yang diperlukan.
+          Informasi terkait buku seperti riwayat peminjaman, status ketersediaan, dan ulasan pengguna dapat diakses dengan mudah.
+        </p>
+      </div>
+      <div class="col-md-6 d-flex justify-content-center">
+        <img class="image" style="center" src="{{ url_for('static',filename='img/ly5.svg')}}"></img>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div class="row">
+      <div class="col-md-6 d-flex justify-content-center">
+        <img class="image"  src="{{ url_for('static',filename='img/ly3.svg')}}"></img>
+      </div>
+      <div class="col">
+        <h2>Interaksi Sosial dan Kolaborasi</h2>
+        <p class="lead">Beberapa aplikasi perpustakaan online memiliki fitur sosial yang memungkinkan pengguna berbagi ulasan, rekomendasi, dan penilaian buku dengan pengguna lain.
+          Kolaborasi antara pengguna dapat meningkatkan pengalaman membaca dan membantu dalam menemukan buku-buku yang mungkin diminati.
+        </p>
+      </div>
+    </div>
+    <br>
+    <br>
+     <br>
+    <br>
+    <div class="row">
+      <div class="col">
+        <h2>Keamanan dan Cadangan Data</h2>
+        <p class="lead">Informasi pengguna dan data perpustakaan dapat dijaga dengan baik melalui keamanan digital dan cadangan data reguler, memastikan keberlanjutan layanan.
+        </p>
+      </div>
+      <div class="col-md-6 d-flex justify-content-center">
+        <img class="image" src="{{ url_for('static',filename='img/ly8.svg')}}"></img>
+      </div>
+    </div>
+</div>
+<br>
+<br>
+{% endblock %}

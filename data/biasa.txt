@@ -1,0 +1,97 @@
+from flask import Flask, render_template, request
+import time
+
+app = Flask(__name__)
+
+
+def proses():
+    for index in range(10):
+        print(index)
+        time.sleep(0.5)
+        
+@app.route('/')
+def index():
+    return render_template('home.html')
+
+
+def read_data():
+    csv = []
+    with open("data.csv", "r") as reader:
+        data = reader.read()
+    for line in data.split("\n"):
+        line = line.split(",")
+        if len(line) == 13:
+            row = {
+                "Id_Buku": line[0],
+                "Jenis": line[1],
+                "Judul_Buku": line[2],
+                "Pengarang": line[3],
+                "Penerbit": line[4],
+                "Tahun_Terbit": line[5],
+                "Kelas": line[6],
+                "Edisi": line[7],
+                "Isbn": line[8],
+                "Jumlah": line[9],
+                "Tanggal_Input": line[10],
+                "Tanggal_Masuk": line[11]
+            }
+            csv.append(row)
+    return csv[1:]
+
+#Setting initial value of the counter to zero 
+rowcount  = 0
+#iterating through the whole file 
+for row in open("data.csv"): 
+  rowcount+= 1
+  
+@app.route('/data')
+def data():
+    context_data = {
+        "data_perpus": read_data(),
+        "jumlah": int(rowcount)
+    }
+    return render_template('index.html', **context_data)
+
+
+@app.route('/cari')
+def menampilkan_data():
+    search_key = request.args.get('search-key', '')
+    search_key = search_key.lower()
+    data = read_data()
+    hasil = []
+    for perpus in data:
+        if perpus.get("Judul_Buku").lower().find(search_key) != -1:
+            hasil.append(perpus)
+    context_data = {
+        "data_perpus": hasil,
+    }
+    return render_template('index.html', **context_data)
+
+@app.route('/detail/<Id_Buku>')
+def detail(Id_Buku):
+    # Waktu mulai
+    start_time = time.time()
+    data = read_data()
+
+    for index in data:
+        if index.get('Id_Buku') == Id_Buku:
+            data = index
+
+    # Waktu akhir
+    end_time = time.time()
+
+    # Durasi eksekusi
+    execution_time = end_time - start_time
+
+    context_data = {
+        "data_perpus": data,
+        "execution_time": float(execution_time),
+    }
+    return render_template('detail.html', **context_data)
+
+@app.route('/kelompok')
+def kelompok():
+    return render_template('kelompok.html')
+
+if __name__ == '__main__':
+    app.run(debug = True)

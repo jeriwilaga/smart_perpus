@@ -1,0 +1,57 @@
+
+<nav id="menu-bottom" class="nav">
+    <a href="{{ url_for('index')}}" class="nav__link">
+        <i class="fas fa-home"></i>
+        <span class="nav__text">Home</span>
+    </a>
+    <a href="{{ url_for('data')}}" class="nav__link">
+        <i class="fas fa-book"></i>
+        <span class="nav__text">Data</span>
+    </a>
+    <a href="{{ url_for('kelompok')}}" class="nav__link">
+        <i class="fas fa-user"></i>
+        <span class="nav__text">Kelompok</span>
+    </a>
+    <a href="{{ url_for('pinjam')}}" class="nav__link">
+        <i class="fas fa-layer-group"></i>
+        <span class="nav__text">Buku</span>
+    </a>
+    <a href="{{ url_for('checkout')}}" class="nav__link">
+        <i class="fas fa-shopping-cart"></i>
+        <span class="nav__text">Pinjam</span>
+    </a>
+</nav>
+<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top rounded mb-4" aria-label="Thirteenth navbar example">
+
+    <div class="container">
+      <a class="navbar-brand" href="{{ url_for('index')}}"><img src="{{ url_for('static', filename='img/sm.png')}}" width="35px">Smart <strong>Perpus</strong></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto ">
+              <li class="nav-item active">
+                  <a class="nav-link" href="{{ url_for('index')}}">Home <span class="visually-hidden">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="{{ url_for('data')}}">Data Perpus</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="{{ url_for('kelompok')}}">Kelompok</a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="{{ url_for('pinjam')}}">
+                <i class="fas fa-layer-group"></i>
+              </a></li>
+              <li class="nav-item"><a class="nav-link" href="{{ url_for('checkout')}}">
+                <i class="fas fa-shopping-cart"></i>
+              </a></li>
+              <li>   
+                
+              </li>
+          </ul>
+      </div>
+  </div>
+</nav>
+<br>
+<br>
+  

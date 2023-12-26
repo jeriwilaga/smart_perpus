@@ -1,0 +1,45 @@
+
+{% extends "base.html" %}
+
+{% block title %}Smart Perpus | Daftar Buku{% endblock %}
+
+{% block content %}
+<br>
+<main class="container">
+  <div class="container" id="custom-cards">
+    <h2 class="pb-2 border-bottom">
+      <div class="d-flex">
+        <h3 class="mt-3 mb-3 flex-grow-1">Daftar Peminjaman Buku</h3>
+        
+      </div>
+    </div>
+    {{ total_items}}
+    <div class="row row-cols-1 row-cols-md-3 g-4 py-3">
+        {% for buku in checkout_list %}
+        <div class="col">
+          <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: url('{{ url_for('static', filename=buku.Foto) }}');">
+            <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                    <small>{{ buku.Pengarang}}</small>
+              <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">{{ buku.Judul_Buku }}</h3>
+                    
+              <ul class="d-flex list-unstyled mt-auto">
+                <li class="me-auto">
+                  <a href="{{ url_for('clear_checkout', index=loop.index0) }}" class="bi" width="24" height="24" style="color: white;"><i class="fas fa-trash-alt"></i> </a>
+                </li>
+                <li class="d-flex align-items-center me-3">
+                  <svg class="bi me-2" width="1em" height="1em"><i class="fas fa-calendar-alt me-2 "></i></svg>
+                  <small>{{ buku.Tahun_Terbit }}</small>
+                </li>
+                <li class="d-flex align-items-center">
+                  <svg class="bi me-2" width="1em" height="1em"><i class="fas fa-book me-2"></i></svg>
+                  <small>{{ buku.Jenis}}</small>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</main>
+{% endblock %}
